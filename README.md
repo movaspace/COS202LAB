@@ -72,6 +72,8 @@ COS202LAB/
 ├── main.cpp                         # WinMain application entry point
 ├── build.bat                        # Batch compilation script
 ├── Makefile                         # GNU Make build configuration
+├── patients.csv                     # Sample patients data
+├── patients.csv.appts.csv           # Sample appointments data
 └── README.md                        # Documentation
 ```
 
