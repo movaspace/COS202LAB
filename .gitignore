@@ -1,0 +1,13 @@
+# Executables and binaries
+*.exe
+*.o
+*.obj
+*.bin
+
+# Toolchains and archives
+w64devkit/
+w64devkit.zip
+mingw64/
+
+# Temporary and build artifacts
+*.zip
